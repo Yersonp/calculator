@@ -1,8 +1,8 @@
 body {
-     
+     background-color: #1d1d1d;
 }
 button.clear {
-    background: #1d1d1d;
+    background: #FF5722;
     color: #fff;
 }
 table {
